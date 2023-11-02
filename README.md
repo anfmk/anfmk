@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Ashley 👋
+<h2>👨‍💻 Cybersecurity/IT Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- Hello World
+
+
+<h2>📺 Certifications</h2>
+
+- CompTIA A+ 
+- CompTIA Net+
+- CompTIA Sec+
+- CompTIA IT Operations Specialist
+- CompTIA Secure Infrastructure Specialist
+- ITILv4
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ashley-kitt
 
 <!--
-**anfmk/anfmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
